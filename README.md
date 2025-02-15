@@ -1,1 +1,1 @@
-# cashincrease
+# cash capital increase stategy 
